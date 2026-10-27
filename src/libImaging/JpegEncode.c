@@ -23,7 +23,6 @@
 
 #ifdef HAVE_LIBJPEG
 
-#undef HAVE_PROTOTYPES
 #undef HAVE_STDLIB_H
 #undef HAVE_STDDEF_H
 #undef UINT8
